@@ -5,6 +5,12 @@ body, html {
  overflow-y: hidden;
 }
 
+h1 {
+    position: absolute;
+    left: 100px;
+    top: 150px;
+}
+
 video {
  position: absolute;
  top: 50%;
