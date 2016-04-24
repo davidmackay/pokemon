@@ -7,9 +7,9 @@ body, html {
 
 h1 {
     position: absolute;
-    left: 1100px;
+    left: 900px;
     top: 25px;
-    font-size: 40px;
+    font-size: 60px;
     text-shadow: 5px 5px #000000;
 }
 
