@@ -14,6 +14,15 @@ h1 {
     text-shadow: 5px 5px #000000;
 }
 
+p {
+ position: absolute;
+ left: 50px;
+ top: 400px;
+ font-family: "Arial Black", Gadget, sans-serif;
+ font-size: 30px;
+ text-shadow: 3px 3px #000000;
+}
+
 video {
  position: absolute;
  top: 50%;
