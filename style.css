@@ -14,7 +14,7 @@ h1 {
     text-shadow: 5px 5px #000000;
 }
 
-p1 {
+#p1 {
  position: absolute;
  left: 50px;
  top: 400px;
@@ -23,7 +23,7 @@ p1 {
  text-shadow: 3px 3px #000000;
 }
 
-p2 {
+#p2 {
  position: absolute;
  left: 200px;
  top: 400px;
