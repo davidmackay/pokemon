@@ -32,6 +32,24 @@ h1 {
  text-shadow: 3px 3px #000000;
 }
 
+#p3 {
+ position: absolute;
+ left: 550px;
+ top: 550px;
+ font-family: "Arial Black", Gadget, sans-serif;
+ font-size: 30px;
+ text-shadow: 3px 3px #000000;
+}
+
+#p4 {
+ position: absolute;
+ left: 800px;
+ top: 550px;
+ font-family: "Arial Black", Gadget, sans-serif;
+ font-size: 30px;
+ text-shadow: 3px 3px #000000;
+}
+
 video {
  position: absolute;
  top: 50%;
